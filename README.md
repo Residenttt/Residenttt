@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Residenttt
 - 👀 I'm interested in anything make me think
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS / React / TS
