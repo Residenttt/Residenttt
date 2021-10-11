@@ -1,15 +1,15 @@
 
-- 👋 Hi, I’m Ilker aka @Residenttt
-- 👀 I'm interested in anything make me think
-- 🌱 I’m currently learning JS / React / TS
+<p align="center">- 👋 Hi, I’m Ilker aka @Residenttt</p>
+<p align="center">- 👀 I'm interested in anything make me think</p>
+<p align="center">- 🌱 I’m currently learning JS / React / TS</p>
 
 
-<h3>🛠️ My Github Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Residenttt&show_icons=true&theme=prussian">
+<h2><p align="center">🛠️ My Github Stats</p></h2>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Residenttt&show_icons=true&theme=prussian"></p>
 
 
 
-<h3>🛠️ My Top Langs</h3>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Residenttt&layout=compact&hide=html,css&&show_icons=true&theme=prussian" alt="My Top Langs" />
+<h2><p align="center"> 🛠️ My Top Langs </p></h2>
+ <p align="center"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Residenttt&layout=compact&hide=html,css&&show_icons=true&theme=prussian" alt="My Top Langs" /></p>
 
 
