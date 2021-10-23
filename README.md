@@ -1,7 +1,7 @@
 
 <p align="center">- 👋 Hi, I’m Ilker aka @Residenttt</p>
 <p align="center">- 🌱 I’m currently learning JS / React / TS</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Residenttt&label=Profile%20views&color=0e75b6&style=flat" alt="Residenttt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Residenttt&label=Profile%20views&color=0e75b6&style=flat" alt="Residenttt" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Residenttt&" alt="Residenttt" /></p>
 
