@@ -1,6 +1,7 @@
 ### Hi there 👋 
 
 Your friendly neighbourhood front-end dev.
+You can reach me via ilkersari796@gmail.com
 <p><img src="https://komarev.com/ghpvc/?username=Residenttt&label=Profile%20views&color=0e75b6&style=flat" alt="Residenttt" /> </p>
 
 ## Connect with me
