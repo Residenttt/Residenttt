@@ -3,12 +3,14 @@
 Your friendly neighbourhood front-end dev.
 <br>
 You can reach me via ilkersari796@gmail.com
-<p><img src="https://komarev.com/ghpvc/?username=Residenttt&label=Profile%20views&color=0e75b6&style=flat" alt="Residenttt" /> </p>
 
 ## Connect with me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ilker-sari/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ilkerrsari)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Residenttt)
+[![](https://img.shields.io/twitter/follow/ilkerrsari?style=social)](https://www.twitter.com/ilkerrsari)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilker-sari/)
+
+
 
 <br>
 
