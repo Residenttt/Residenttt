@@ -5,10 +5,9 @@ Your friendly neighbourhood front-end dev.
 You can reach me via ilkersari796@gmail.com
 
 ## Connect with me
+- <a href="https://www.twitter.com/ilkerrsari/">Twitter</a>
+- <a href="https://www.linkedin.com/in/ilker-sari/">LinkedIn</a>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Residenttt)
-[![](https://img.shields.io/twitter/follow/ilkerrsari?style=social)](https://www.twitter.com/ilkerrsari)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilker-sari/)
 
 
 
