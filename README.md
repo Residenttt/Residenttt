@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-Your friendly neighbourhood `front-end` dev.
+Your friendly neighbourhood `dev`.
 <br>
 You can reach me via ilkersari796@gmail.com
 
